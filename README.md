@@ -1,2 +1,2 @@
 # 2nd-repositor
-ok
+ok It is my 2nd repository.
